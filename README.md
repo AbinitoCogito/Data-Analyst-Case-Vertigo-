@@ -1,6 +1,6 @@
-# A/B Test – Difficulty Flow Analysis
+# Difficulty Flow Analysis
 
-This repository contains a cohort-based simulation analysis of an A/B test on game difficulty flow.
+This repository contains a simulation analysis of an A/B test on game data of difficulty flow.
 
 ## Objective
 Evaluate which variant performs better in terms of:
