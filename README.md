@@ -1,6 +1,6 @@
-# Difficulty Flow Analysis
+# Difficulty Flow Analysis and Exploratory Data Analysis
 
-This repository contains a simulation analysis of an A/B test on game data of difficulty flow.
+This repository consists of an A/B test on difficulty flow analysis and exploratory data analysis on a game dataset. 
 
 ## Objective
 Evaluate which variant performs better in terms of:
