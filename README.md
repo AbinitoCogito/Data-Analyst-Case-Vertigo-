@@ -1,4 +1,4 @@
-# A/B Testing and Simulation and Exploratory Data Analysis
+# A/B Testing - Simulation and Exploratory Data Analysis
 
 This repository consists of an A/B test on difficulty flow analysis and exploratory data analysis on a game dataset. 
 
