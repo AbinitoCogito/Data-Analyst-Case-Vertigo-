@@ -1,4 +1,4 @@
-<img width="792" height="505" alt="image" src="https://github.com/user-attachments/assets/86543d4c-ecd7-4a0f-8d53-d4be76bdbdd8" /># A/B Testing - Simulation and Exploratory Data Analysis
+# A/B Testing - Simulation and Exploratory Data Analysis
 
 This repository consists of an A/B test on difficulty flow analysis and exploratory data analysis on a game dataset. 
 
@@ -25,25 +25,34 @@ Evaluate which variant (A/B) performs better in terms of:
 ## Key Findings and Graphs
 
 ## Q1. a)
+
 <img width="729" height="461" alt="1" src="https://github.com/user-attachments/assets/57f451e3-c3e6-4707-9fe1-20e394f5524d" />
+
 After 15 days, as we can see from the line graph, most dail active players would be in the Variant B.
 
 b)
+
 <img width="792" height="505" alt="image" src="https://github.com/user-attachments/assets/e0c05307-c81d-4044-9646-bdf7b9460a2e" />
+
 Variant A will earn more money than Variant B by the Day 15
 
 c) 
+
 <img width="878" height="513" alt="image" src="https://github.com/user-attachments/assets/c6ac30f2-924d-40c2-a515-39262d5106cb" />
+
 By Day 30, Variant A still makes more money than Variant B because of Ad purchases makes more money than in-game purchasing.
 
 d)
+
 <img width="1061" height="615" alt="image" src="https://github.com/user-attachments/assets/58726154-3aa2-405f-af15-f6ae9f0cb88b" />
 <img width="1019" height="547" alt="image" src="https://github.com/user-attachments/assets/d5ca73a9-8c1d-429e-9a4b-1cf3f3bf884a" />
 <img width="1032" height="572" alt="image" src="https://github.com/user-attachments/assets/cd8f1ead-781a-43aa-9998-3a49d130201a" />
 <img width="908" height="575" alt="image" src="https://github.com/user-attachments/assets/5aefde6d-ce73-45ce-88f3-320b232428e5" />
 
 e)
+
 <img width="846" height="510" alt="image" src="https://github.com/user-attachments/assets/a61014bc-81bf-4eb2-ad91-4682cc98777c" />
+
 <img width="833" height="515" alt="image" src="https://github.com/user-attachments/assets/03f712f6-c8b2-4d64-856e-de30efae46dc" />
 
 In this scenario, again, Variant A will earn more money than Variant B. Nearly all of the scenarios, Variant A was winning from the Ad purchasing and Variant B was winning for In-Game purchasing. Because Variant B has more Daily Active User (reminder for retention points) and this leads naturally more purchasing. Although, we should keep going with Variant A because it looks like Ad purchasing earns more than in-game purchasing.
